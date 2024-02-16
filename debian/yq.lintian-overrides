@@ -1,0 +1,6 @@
+yq: copyright-without-copyright-notice
+yq: initial-upload-closes-no-bugs
+yq: no-manual-page
+yq: shared-library-lacks-prerequisites
+yq: statically-linked-binary
+yq: zero-byte-file-in-doc-directory
